@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### Hey there, I'm Zein Forrell 👋
+### Hey there, I'm Rizki Ningrat 👋
 
 
 - 🔭 I’m currently working on my [School project](https://github.com/rizumiya/Program-Aplikasi)
