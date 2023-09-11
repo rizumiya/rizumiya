@@ -38,5 +38,5 @@ Here are some ideas to get you started:
      - Blender
 - 😄 Hobbies:
   - 3D Modelling
-  - Watching movies
-  - Create a small apps
+  - Watch movies
+  - Create small apps
