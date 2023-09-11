@@ -22,3 +22,21 @@ Here are some ideas to get you started:
   - Email: zeinforrell69@gmail.com
   - Discord: rizumiya@1706
   - Telegram: @rizumiya
+  - LinkedIn: [Rizki Ningrat](https://id.linkedin.com/in/rizki-nur-rachmadi-yudadiningrat-9305711b4)
+- ⚡ Skills:
+  - Intermediate:
+     - python
+     - laravel (HTML, PHP, JS)
+     - Bootstrap
+     - MySQL
+     - Oracle DBMS (certified)
+  - Basic:
+     - c++
+     - .NET
+  - Apps:
+     - MS.Office
+     - Blender
+- 😄 Hobbies:
+  - 3D Modelling
+  - Watching movies
+  - Create a small apps
