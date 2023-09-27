@@ -36,6 +36,7 @@ Here are some ideas to get you started:
   - Apps:
      - MS.Office
      - Blender
+     - Figma
 - 😄 Hobbies:
   - 3D Modelling
   - Watch movies
