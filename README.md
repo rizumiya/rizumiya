@@ -28,7 +28,7 @@ Here are some ideas to get you started:
      - python
      - laravel (HTML, PHP, JS)
      - Bootstrap
-     - MySQL
+     - SQL
      - Oracle DBMS (certified)
   - Basic:
      - c++
