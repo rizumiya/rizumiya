@@ -3,13 +3,13 @@
 Welcome to my Github profile! Here's everything you need to know about me:
 
 ## About Me
-I'm a software developer who's passionate about learning new things and building cool projects. Currently, I'm working on my School project (https://github.com/rizumiya/Program-Aplikasi). I'm also focusing on learning AI and how to implement clean code. If you have some time to spare, please teach me.
+I'm a software developer who's passionate about learning new things and building cool projects. Currently, I have just completed my project, which is the first application that can detect multiple-choice answers ON non-computer-based answer sheets (lembar jawaban non-LJK) for high school teachers. You can check it out here! 👉 [OMRay](https://github.com/rizumiya/OMRay). I'm also focusing on learning AI.
 
 ## Contact Me
-- Email: zeinforrell69@gmail.com
+- Email: rizkiningrat1707@gmail.com
 - Discord: rizumiya@1706
 - Telegram: @rizumiya
-- LinkedIn: Rizki Ningrat (https://id.linkedin.com/in/rizki-nur-rachmadi-yudadiningrat-9305711b4)
+- LinkedIn: [Rizki Ningrat](https://id.linkedin.com/in/rizki-nur-rachmadi-yudadiningrat-9305711b4)
 
 ## Skills
 Here are some of the skills that I've developed during my software development journey:
@@ -22,6 +22,7 @@ Here are some of the skills that I've developed during my software development j
 ### Basic:
 - C++
 - .NET
+- Mobile Programming
 ### Apps:
 - MS.Office
 - Blender
