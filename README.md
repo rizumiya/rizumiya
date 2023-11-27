@@ -1,43 +1,36 @@
-<!--
-**rizumiya/rizumiya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hello, there! I'm Rizki Ningrat 👋
 
-Here are some ideas to get you started:
+Welcome to my Github profile! Here's everything you need to know about me:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## About Me
+I'm a software developer who's passionate about learning new things and building cool projects. Currently, I'm working on my School project (https://github.com/rizumiya/Program-Aplikasi). I'm also focusing on learning AI and how to implement clean code. If you have some time to spare, please teach me.
 
-### Hey there, I'm Rizki Ningrat 👋
+## Contact Me
+- Email: zeinforrell69@gmail.com
+- Discord: rizumiya@1706
+- Telegram: @rizumiya
+- LinkedIn: Rizki Ningrat (https://id.linkedin.com/in/rizki-nur-rachmadi-yudadiningrat-9305711b4)
 
+## Skills
+Here are some of the skills that I've developed during my software development journey:
+### Intermediate:
+- Python
+- Laravel (HTML, PHP, JS)
+- Bootstrap
+- SQL
+- Oracle DBMS (certified)
+### Basic:
+- C++
+- .NET
+### Apps:
+- MS.Office
+- Blender
+- Figma
 
-- 🔭 I’m currently working on my [School project](https://github.com/rizumiya/Program-Aplikasi)
-- 🌱 I’m currently learning AI and how to implement clean code, got some times? please teach me..
-- 📫 How to reach me:
-  - Email: zeinforrell69@gmail.com
-  - Discord: rizumiya@1706
-  - Telegram: @rizumiya
-  - LinkedIn: [Rizki Ningrat](https://id.linkedin.com/in/rizki-nur-rachmadi-yudadiningrat-9305711b4)
-- ⚡ Skills:
-  - Intermediate:
-     - python
-     - laravel (HTML, PHP, JS)
-     - Bootstrap
-     - SQL
-     - Oracle DBMS (certified)
-  - Basic:
-     - c++
-     - .NET
-  - Apps:
-     - MS.Office
-     - Blender
-     - Figma
-- 😄 Hobbies:
-  - 3D Modelling
-  - Watch movies
-  - Create small apps
+## Hobbies
+Apart from coding, I have a few hobbies that I like to pursue during my free time. These include:
+- 3D Modelling
+- Watching movies
+- Creating small apps
+
+If you have any thoughts or suggestions for me, feel free to reach out. Let's connect! 🤝
