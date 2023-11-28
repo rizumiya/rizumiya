@@ -15,9 +15,8 @@ I'm a software developer who's passionate about learning new things and building
 Here are some of the skills that I've developed during my software development journey:
 ### Intermediate:
 - Python
-- Laravel (HTML, PHP, JS)
-- Bootstrap
-- SQL
+- Laravel (HTML, PHP, JS, Bootstrap)
+- DBA (SQL & NoSQL)
 - Oracle DBMS (certified)
 ### Basic:
 - C++
