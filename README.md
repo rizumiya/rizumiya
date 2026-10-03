@@ -1,36 +1,52 @@
-# Hello, there! I'm Rizki Ningrat 👋
+<div align="center">
 
-Welcome to my Github profile! Here's everything you need to know about me:
+# Hi, I'm Rizki Ningrat 👋
 
-## About Me
-I'm a software developer who's passionate about learning new things and building cool projects. Currently, I have just completed my project, which is the first application that can detect multiple-choice answers ON non-computer-based answer sheets (lembar jawaban non-LJK) for high school teachers. You can check it out here! 👉 [OMRay](https://github.com/rizumiya/OMRay). I'm also focusing on learning AI.
+Software Developer | AI Enthusiast | 3D Modeler
 
-## Contact Me
-- Email: rizkiningrat1707@gmail.com
-- Discord: rizumiya@1706
-- Telegram: @rizumiya
-- LinkedIn: [Rizki Ningrat](https://id.linkedin.com/in/rizki-nur-rachmadi-yudadiningrat-9305711b4)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Rizki_Ningrat-blue?logo=linkedin&style=flat-square)](https://id.linkedin.com/in/rizki-nur-rachmadi-yudadiningrat-9305711b4)
+[![Email](https://img.shields.io/badge/Email-rizkiningrat1707@gmail.com-d14836?logo=gmail&logoColor=white&style=flat-square)](mailto:rizkiningrat1707@gmail.com)
+<img src="https://img.shields.io/badge/Discord-rizumiya@1706-5865F2?logo=discord&logoColor=white&style=flat-square" alt="Discord" />
+<img src="https://img.shields.io/badge/Telegram-@rizumiya-2CA5E0?logo=telegram&logoColor=white&style=flat-square" alt="Telegram" />
 
-## Skills
-Here are some of the skills that I've developed during my software development journey:
-### Intermediate:
-- Python (Django Framework)
-- Laravel (HTML, PHP, JS, Bootstrap)
-- DBA (SQL & NoSQL)
-- Oracle DBMS (certified)
-### Basic:
-- C++
-- .NET
-- Mobile Programming
-### Apps:
-- MS.Office
-- Blender
-- Figma
+</div>
 
-## Hobbies
-Apart from coding, I have a few hobbies that I like to pursue during my free time. These include:
-- 3D Modelling
-- Watching movies
-- Creating small apps
+---
 
-If you have any thoughts or suggestions for me, feel free to reach out. Let's connect! 🤝
+## 👨‍💻 About Me
+
+I am a passionate software developer dedicated to continuous learning and building innovative projects. My recent focus has been on exploring artificial intelligence.
+
+**Featured Project:**
+
+🏆 **[OMRay](https://github.com/rizumiya/OMRay)** — The first application designed to detect multiple-choice answers on non-computer-based answer sheets (lembar jawaban non-LJK), specifically crafted to assist high school teachers.
+
+---
+
+## 🛠️ Skills & Technologies
+
+### **Development**
+
+- **Intermediate:** Python (Django) | Laravel (HTML, PHP, JS, Bootstrap)
+- **Databases:** DBA (SQL & NoSQL) | Oracle DBMS (Certified)
+- **Basic:** C++ | .NET | Mobile Programming
+
+### **Design & Tools**
+
+- Blender | Figma | MS Office
+
+---
+
+## 🎨 Hobbies & Interests
+
+Beyond coding, I enjoy expressing my creativity and unwinding through:
+
+- 🧊 3D Modelling
+- 🎬 Watching Movies
+- 📱 Creating Small Apps
+
+---
+
+<div align="center">
+  <i>Open to new opportunities, suggestions, and collaborations. Let's connect! 🤝</i>
+</div>
